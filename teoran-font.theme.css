@@ -8,6 +8,6 @@
 
 :root {
   --home-icon: url('https://i.imgur.com/DOCNDCl.png');
-  --main-font: Teoran Font v1.05 Regular;
-  --code-font: Teoran Font v1.05 Regular;
+  --main-font: 'https://github.com/Courrite/saga-font/raw/main/teoran-font-v1-05.ttf?raw=1';
+  --code-font: 'https://github.com/Courrite/saga-font/raw/main/teoran-font-v1-05.ttf?raw=1';
 }
