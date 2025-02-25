@@ -8,9 +8,9 @@
 
  @font-face {
   font-family: 'Teoran';
-  src: url('https://github.com/Courrite/saga-font/blob/main/fonts/teoran-font-v1-05.ttf') format('truetype'),
-       url('https://github.com/Courrite/saga-font/blob/main/fonts/teoran-font-v1-05.woff') format('woff'),
-       url('https://github.com/Courrite/saga-font/blob/main/fonts/teoran-font-v1-05.woff2') format('woff2');
+  src: url('https://github.com/Courrite/saga-font/raw/refs/heads/main/fonts/teoran-font-v1-05.ttf') format('truetype'),
+       url('https://github.com/Courrite/saga-font/raw/refs/heads/main/fonts/teoran-font-v1-05.woff') format('woff'),
+       url('https://github.com/Courrite/saga-font/raw/refs/heads/main/fonts/teoran-font-v1-05.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
   font-style: normal;
